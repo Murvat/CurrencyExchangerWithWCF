@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CurrencyService\\CurrencyService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MyClient\\MyClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
